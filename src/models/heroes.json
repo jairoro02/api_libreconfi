@@ -1,0 +1,74 @@
+{
+    "heroes": [
+        {
+            "nombre": "Spider-Man",
+            "edad": 27,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Batman",
+            "edad": 33,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Iron Man",
+            "edad": 42,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Wonder Woman",
+            "edad": 28,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Captain America",
+            "edad": 98,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Superman",
+            "edad": 35,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Thor",
+            "edad": 1500,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "The Flash",
+            "edad": 28,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Hulk",
+            "edad": 48,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Aquaman",
+            "edad": 42,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Black Widow",
+            "edad": 35,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Green Lantern",
+            "edad": 32,
+            "universo": "DC"
+        },
+        {
+            "nombre": "Daredevil",
+            "edad": 30,
+            "universo": "Marvel"
+        },
+        {
+            "nombre": "Cyborg",
+            "edad": 26,
+            "universo": "DC"
+        }
+    ]
+}
