@@ -5,7 +5,7 @@ const heroRoute = require("./routes/heroRoute")
 const PORT = process.env.PORT || 3001
 const conectionDB = require("./lib/mongoose");
 
-
+//Nos conectamos a la base de datos
 conectionDB()
 
 app.use(express.json())
